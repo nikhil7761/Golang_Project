@@ -1,0 +1,12 @@
+1 st initialize the project
+go mod init <--terminux-->
+
+2.go build -o <.exe name>
+
+3  ./go-app.exe
+
+
+4. go clean -cache
+
+5. directly run manually golang project 
+   go run ./main.go
