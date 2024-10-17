@@ -10,3 +10,15 @@ go mod init <--terminux-->
 
 5. directly run manually golang project 
    go run ./main.go
+
+6. Only .exe is supported for the windows envirnament8.
+WHEN WE ENTER THE go build -o goapp.exe
+
+7. for the linux we should run following command
+go build -o goapp
+
+8.on windows we are use to run golang
+.\golang.exe
+
+9.on the linux we can use
+./golang.exe
